@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sweetcake5</string>
+
+    <!-- Textos para la pantalla de Login -->
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="registro_title">Registrarse</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+</resources>
